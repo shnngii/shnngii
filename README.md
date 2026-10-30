@@ -1,7 +1,6 @@
-## Hi, I'm Shang 👋
-📚 Currently learning the fundamentals of Web Development & IT
-
-🎨 Interested in Front-End Development and UI/UX design
+## Hi, I'm Shang :)
+I'm an Information Technology student at Mindanao State University – Iligan Institute of Technology (MSU-IIT).
+Currently learning the fundamentals of Web Development & IT. I am also interested in Front-End Development and UI/UX design.
 <!--
 **shnngii/shnngii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
