@@ -2,7 +2,7 @@
 I'm an Information Technology student at Mindanao State University – Iligan Institute of Technology (MSU-IIT).
 Currently learning the fundamentals of Web Development & IT. I am also interested in Front-End Development and UI/UX design.
 
-<h3 align="center"> Currently learning UI/UX</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
