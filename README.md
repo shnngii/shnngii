@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi, I'm Shang 👋
 📚 Currently learning the fundamentals of Web Development & IT
+
 🎨 Interested in Front-End Development and UI/UX design
 <!--
 **shnngii/shnngii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
